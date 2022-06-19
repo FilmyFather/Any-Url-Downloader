@@ -1,0 +1,74 @@
+{
+  "name": "Shadow-YT-Downloader-Bot",
+  "description": "This is the best bot created by @ShadowKing9o,to download YT Videos in seconds.",
+  "logo": "https://telegra.ph/file/1b71ca9ebb039a8bf98fb.jpg", 
+  "keywords": [
+    "telegram",
+    "best",
+    "yt-dlp",
+    "downloader",
+    "open",
+    "source",
+    "ffmpeg",
+    "remote",
+    "uploader"
+  ],
+  "website": "https://github.com/MasterShad0w",
+  "repository": "https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot",
+  "env": {
+    "WEBHOOK": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from https://t.me/ShadowScrapperBot",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://t.me/ShadowScrapperBot",
+      "value": ""
+    },
+    "DATABASE_URL": {
+      "description": "Your Mongodb Url",
+      "value": ""
+    },
+    "LOG_CHANNEL": {
+      "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
+      "value": ""
+    },
+    "UPDATES_CHANNEL": {
+      "description": "For Force Subscribe. Paste your Update channel ID",
+      "value": "-1001544733903"
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram ID For Broadcast",
+      "value": "1096707867"
+    },
+    "BROADCAST_AS_COPY": {
+      "description": "Value Will Be True or False",
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "Your Bot Username Without @",
+      "value": ""
+    }
+  },
+  "addons": [
+  ],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
+
