@@ -32,7 +32,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Tᴇʟʟʏʙᴏᴛs](https://telegram.me/ShadowsArena)
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Shadow King](https://telegram.me/ShadowsArena)
  
 """
     ABOUT_TEXT = """
