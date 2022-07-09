@@ -62,3 +62,7 @@ Deploy your bot on `Okteto`
 </h1>
 
 [ʀᴇQ. ɢʀᴏᴜᴘ](https://t.me/RequestingHuB) and [Support Group](https://t.me/Yuvi_4502) 
+
+### Credit
+
+[Shadow King](https://github.com/MasterShad0w)
