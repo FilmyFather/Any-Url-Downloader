@@ -49,7 +49,7 @@
 
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Any-Url-Downloader">
-    <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="0" height="30" width="200"></a>
+    <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="2" height="50" width="280"></a>
 </p>
 
 
@@ -57,6 +57,8 @@ Deploy your bot on `Okteto`
   
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
 
-### Support
+<h1 align="left">
+<b> Support </b>
+</h1>
 
 [ʀᴇQ. ɢʀᴏᴜᴘ](https://t.me/RequestingHuB) and [Support Group](https://t.me/Yuvi_4502) 
