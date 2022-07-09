@@ -11,17 +11,17 @@
     <img src="https://telegra.ph/file/64b87518d17b8a168c846.jpg" width="250">
   </a><br>
   <a href="https://t.me/FilmyFather_Botlist">
-    &nbsp;<img src="https://img.shields.io/badge/FilmyFather%20BotList-Channel-blue?style=plastic&logo=Telegram" width="150" height="20">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/FilmyFather%20BotList-Channel-blue?style=plastic&logo=Telegram" width="185" height="22">&nbsp;
   </a>
   <a href="https://t.me/RequestingHuB">
     &nbsp;<img src="https://img.shields.io/badge/Requesting%20HuB-Group-blue?style=plastic&logo=Telegram" width="180" height="22">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MasterShad0w/Shadow-YT-Downloader-Bot?style=social">
+  <a href="https://github.com/FilmyFather/Any-Url-Downloader/stargazers">
+    <img src="https://img.shields.io/github/stars/FilmyFather/Any-Url-Downloader?style=social">
   </a>
-  <a href="https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MasterShad0w/Shadow-YT-Downloader-Bot?label=Fork&style=social">
+  <a href="https://github.com/FilmyFather/Any-Url-Downloader/fork">
+    <img src="https://img.shields.io/github/forks/FilmyFather/Any-Url-Downloader?label=Fork&style=social">
   </a>  
 </p>
   
@@ -48,7 +48,7 @@
 
 
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot">
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Any-Url-Downloader">
     <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="0" height="30" width="200"></a>
 </p>
 
@@ -57,6 +57,6 @@ Deploy your bot on `Okteto`
   
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
 
-## Support
+### Support
 
-[Movie Group](https://t.me/+9Zhp_GdQVctiNjc1) and [Support Group](https://t.me/ShadowsArena) 
+[ʀᴇQ. ɢʀᴏᴜᴘ](https://t.me/RequestingHuB) and [Support Group](https://t.me/Yuvi_4502) 
