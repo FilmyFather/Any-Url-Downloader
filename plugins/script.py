@@ -9,7 +9,7 @@ I ᴀᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴜʀʟ ᴜᴘʟ
 
 Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Shadow King](https://telegram.me/ShadowsArena)
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʏᴜᴠʀᴀᴊ](https://telegram.me/Yuvi_4502)
 """
     HELP_TEXT = """
 ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ
@@ -32,11 +32,11 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [Shadow King](https://telegram.me/ShadowsArena)
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʏᴜᴠʀᴀᴊ](https://telegram.me/Yuvi_4502)
  
 """
     ABOUT_TEXT = """
-*OWNER** : [Shadow King](http://t.me/ShadowKing9o)
+**OWNER** : [ʏᴜᴠʀᴀᴊ](http://t.me/Yuvi_4502)
 
 **Cʜᴀɴɴᴇʟ** : [Shadow Arena](https://t.me/ShadowsArena)
 
@@ -48,7 +48,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 **Fʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢᴀᴍ 1.3.6](https://docs.pyrogram.org/)
 
-**Movie Group :** [Movie Addaa](https://t.me/+9Zhp_GdQVctiNjc1)
+**ʀᴇQᴜᴇꜱᴛɪɴɢʜᴜʙ :** [Movie Addaa](https://t.me/+9Zhp_GdQVctiNjc1)
 
 """
 
