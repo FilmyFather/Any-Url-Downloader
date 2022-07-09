@@ -40,7 +40,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 **Cʜᴀɴɴᴇʟ** : [ꜰɪʟᴍʏꜰᴀᴛʜᴇʀ ʙᴏᴛʟɪꜱᴛ](https://t.me/FilmyFather_BotList)
 
-**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot)
+**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/FilmyFather/Any-Url-Downloader)
 
 **Sᴇʀᴠᴇʀ** : [ʜᴇʀᴏᴋᴜ](https://heroku.com/)
 
