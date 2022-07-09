@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://github.com/MasterShad0w",
-  "repository": "https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot",
+  "website": "https://github.com/FilmyFather",
+  "repository": "https://github.com/FilmyFather/Any-Url-Downloader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -26,11 +26,11 @@
     },
     "API_ID": {
       "description": "Get this value from https://t.me/ShadowScrapperBot",
-      "value": ""
+      "value": "7588344"
     },
     "API_HASH": {
       "description": "Get this value from https://t.me/ShadowScrapperBot",
-      "value": ""
+      "value": "6ade175bcf8ea4981e3153ef48fe07f5"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
@@ -38,15 +38,15 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001519466788"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": "-1001544733903"
+      "value": "-1001789780845"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1096707867"
+      "value": "1564152071"
     },
     "BROADCAST_AS_COPY": {
       "description": "Value Will Be True or False",
