@@ -1,20 +1,20 @@
 
 <h1 align="center">
-  <b> ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ𝟸 </b>
+  <b> ꜰɪʟᴍʏꜰᴀᴛʜᴇʀ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ𝟸 </b>
 </h1>
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="200">
   </a>
-  <a href="https://t.me/ShadowKing9o">
-    <img src="https://telegra.ph/file/93a7e33b65dc93349c0be.jpg" width="250">
+  <a href="https://t.me/Yuvi_4502">
+    <img src="https://telegra.ph/file/64b87518d17b8a168c846.jpg" width="250">
   </a><br>
-  <a href="https://t.me/ShadowsArena">
-    &nbsp;<img src="https://img.shields.io/badge/Shadow%20Arena-Channel-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/FilmyFather_Botlist">
+    &nbsp;<img src="https://img.shields.io/badge/FilmyFather%20BotList-Channel-blue?style=plastic&logo=Telegram" width="150" height="20">&nbsp;
   </a>
-  <a href="https://t.me/+9Zhp_GdQVctiNjc1">
-    &nbsp;<img src="https://img.shields.io/badge/Movie%20Addaa-Group-blue?style=plastic&logo=Telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/RequestingHuB">
+    &nbsp;<img src="https://img.shields.io/badge/Requesting%20HuB-Group-blue?style=plastic&logo=Telegram" width="180" height="22">&nbsp;
   </a>
   <br>
   <a href="https://github.com/MasterShad0w/Shadow-YT-Downloader-Bot/stargazers">
