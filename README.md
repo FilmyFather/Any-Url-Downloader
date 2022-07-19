@@ -66,3 +66,6 @@ Deploy your bot on `Okteto`
 ### Credit
 
 [Shadow King](https://github.com/MasterShad0w)
+
+#### Licence
+- GMU V3
