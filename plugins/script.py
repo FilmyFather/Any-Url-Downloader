@@ -42,7 +42,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 **Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/FilmyFather/Any-Url-Downloader)
 
-**Sᴇʀᴠᴇʀ** : [ʜᴇʀᴏᴋᴜ](https://heroku.com/)
+**Sᴇʀᴠᴇʀ** : [OKTETO](https://heroku.com/)
 
 **Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.10.2](https://www.python.org/)
 
@@ -101,7 +101,7 @@ URL | filename | username | password"""
     DOWNLOAD_START = "Downloading to my server now...</b> 📥\n\nPlease Wait Uploading will start as soon as possible 😎"
     UPLOAD_START = "<b>Uploading to Telegram now...</b> 📤"
     RCHD_TG_API_LIMIT = "<b>Downloaded in:</b> {} seconds.\n<b>Detected file size:</b> {}\n\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations 😕."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "👍 Thanks for using [Me](https://t.me/ShadowsArena."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "👍 Thanks for using [Me](https://t.me/Yuvi_4502."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>Downloaded in:</b> {} seconds.\n<b>Uploaded in:</b> {} seconds."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
